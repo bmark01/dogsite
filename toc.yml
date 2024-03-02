@@ -1,2 +1,5 @@
-- name: Docs
-  href: bruce/
+# This is an automatically generated file
+items:
+- name: Dogsite
+  href: index.md
+- name: Images
