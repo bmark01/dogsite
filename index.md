@@ -18,3 +18,13 @@ Start at the top of the stairs. Ask Watson to do any behavior he knows, like sit
 
 * Perch work- [link](https://www.youtube.com/watch?v=O6sj6fTJnFc)
 
+
+### Dog conditioning: 
+* Easy exercises [link](https://www.akc.org/expert-advice/training/easy-exercises-for-canine-conditioning)
+
+* Running the stairs:
+Start at the top of the stairs. Ask Watson to do any behavior he knows, like sit, down, shake, spin, etc. Click/verbally mark when they do it, then toss a treat to the bottom of the steps. Encourage him to go get it, then rinse and repeat. This is an easy way to physically tire him quickly.
+
+* Dog parkour- [link](https://www.dogparkour.org/training-level)
+
+* Perch work- [link](https://www.youtube.com/watch?v=O6sj6fTJnFc)
