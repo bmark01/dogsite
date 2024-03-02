@@ -1,6 +1,9 @@
 ![Watson](./images/Watson.png)
 # Dog training resources:
 \* Note: To open links in a new tab, right-click the link and select "Open Link in New Tab".
+### Missions:
+#### [Shared Google Doc](https://docs.google.com/spreadsheets/d/1AKUyX6h1IlNM33kA-pKEyjt6FO-edaGJhS-3ZKl7Ank/edit#gid=1492869044)
+ 
 ### Relaxing:
 * Relax on mat video- [link](https://www.youtube.com/watch?v=4tQs6lHKLCY)
  
