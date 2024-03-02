@@ -1,0 +1,105 @@
+{
+  "source_base_path": "/Users/brucemark/dogsite",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "bruce/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "bruce/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "bruce/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "bruce/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "bruce/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "bruce/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "bruce/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "bruce/toc.html"
+        },
+        ".json": {
+          "relative_path": "bruce/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "dog_training.md",
+      "output": {
+        ".html": {
+          "relative_path": "dog_training.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Watson.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Watson.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

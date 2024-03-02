@@ -1,0 +1,8 @@
+# This is an automatically generated file
+items:
+- name: Bruce
+  href: index.md
+- name: Getting Started
+  href: getting-started.md
+- name: Introduction
+  href: introduction.md
