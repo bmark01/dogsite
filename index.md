@@ -1,5 +1,5 @@
 ![Watson](./images/Watson.png)
-# Dog training resources:
+# Dog Training Resources:
 ## Table of Contents
 1. [Missions](#missions)
 2. [Relaxing](#relaxing)
