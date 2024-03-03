@@ -1,9 +1,12 @@
 ![Watson](./images/Watson.png)
 # Dog Training Resources:
 ## Table of Contents
-1. [Missions](#missions)
-2. [Relaxing](#relaxing)
-3. [Dog Conditioning](#dog-conditioning)
+- [Dog Training Resources:](#dog-training-resources)
+  - [Table of Contents](#table-of-contents)
+    - [Missions:](#missions)
+      - [Shared Google Doc](#shared-google-doc)
+    - [Relaxing:](#relaxing)
+    - [Dog Conditioning:](#dog-conditioning)
 
 _\* Note: To open links in a new tab, right-click the link and select "Open Link in New Tab"._
 ### Missions:
@@ -18,7 +21,7 @@ _\* Note: To open links in a new tab, right-click the link and select "Open Link
 
 * Protocol for relaxation- [link](https://journeydogtraining.com/wp-content/uploads/2017/07/ProtocolforRelaxation.pdf)
 
-### Dog conditioning: 
+### Dog Conditioning: 
 
 * Easy exercises- [link](https://www.akc.org/expert-advice/training/easy-exercises-for-canine-conditioning)
 
