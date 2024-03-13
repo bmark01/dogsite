@@ -1,4 +1,5 @@
 ![Watson](./images/Watson.png)
+## [Watson's DNA test results](http://embk.me/watson1161?utm_campaign=cns_ref_dog_pub_profile&utm_medium=other&utm_source=embark)
 # Dog Training Resources:
 ## Table of Contents
 - [Dog Training Resources:](#dog-training-resources)
