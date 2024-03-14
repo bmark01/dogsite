@@ -24,8 +24,11 @@
 * Relax on mat pdf- [link](https://babysafedogtraining.com/wp-content/uploads/2012/04/Relax_on_a_mat.pdf)
 
 * Protocol for relaxation- [link](https://journeydogtraining.com/wp-content/uploads/2017/07/ProtocolforRelaxation.pdf)
+
 * Clicker Training- [link](https://www.clickertraining.com/fundamentals)
+
 * Train without a Clicker- [link](https://www.youtube.com/watch?v=Ruez2Mn7sn4&t=38s)
+
 * Take a Breath- [link](https://www.youtube.com/watch?v=bdffTkxqlZQ)
 
 
