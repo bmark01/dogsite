@@ -1,8 +1,10 @@
 ![Watson](./images/Watson.png)
 ## [Watson's DNA test results](http://embk.me/watson1161?utm_campaign=cns_ref_dog_pub_profile&utm_medium=other&utm_source=embark)
 # Weekly Focus Areas:
-1) Missions [link](https://docs.google.com/spreadsheets/d/1AKUyX6h1IlNM33kA-pKEyjt6FO-edaGJhS-3ZKl7Ank/edit#gid=1492869044)
-2) Relaxation Protocol [link](https://journeydogtraining.com/wp-content/uploads/2017/07/ProtocolforRelaxation.pdf)
+1) Missions [link](https://docs.google.com/spreadsheets/d/1AKUyX6h1IlNM33kA-pKEyjt6FO-edaGJhS-3ZKl7Ank/edit#gid=1492869044)  
+   
+2) Relaxation Protocol [link](https://journeydogtraining.com/wp-content/uploads/2017/07/ProtocolforRelaxation.pdf)  
+   
 3) Take a Breath work [link](https://www.youtube.com/watch?v=bdffTkxqlZQ)
 # Dog Training Resources:
 ## Table of Contents
