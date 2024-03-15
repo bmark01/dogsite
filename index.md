@@ -1,5 +1,5 @@
 ![Watson](./images/Watson.png)
-### <p style="text-align: center;">[_Watson's DNA test results_](http://embk.me/watson1161?utm_campaign=cns_ref_dog_pub_profile&utm_medium=other&utm_source=embark)</p>
+### [_Watson's DNA test results_](http://embk.me/watson1161?utm_campaign=cns_ref_dog_pub_profile&utm_medium=other&utm_source=embark)
 
 # Weekly Focus Areas:
 1) **Missions** [link](https://docs.google.com/spreadsheets/d/1AKUyX6h1IlNM33kA-pKEyjt6FO-edaGJhS-3ZKl7Ank/edit#gid=1492869044)
