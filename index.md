@@ -16,15 +16,13 @@
 | **Trazadone**      | Short acting | 100mg  | 3x per day  | 6am, 3pm, 9pm                               |
 | **Fluoxetine HCL** | Long acting  | 20mg   | 1x per day  | 9:00 PM, 7 days @ 1/2 dose started on 3/14  |
 
-
-# Dog Training Resources:
 ## Table of Contents
 - [Weekly Focus Areas:](#weekly-focus-areas)
 - [Medications:](#medications)
-- [Dog Training Resources:](#dog-training-resources)
   - [Table of Contents](#table-of-contents)
     - [Missions:](#missions)
       - [Shared Google Doc](#shared-google-doc)
+- [Training Resources:](#training-resources)
     - [Relaxing:](#relaxing)
     - [Dog Conditioning:](#dog-conditioning)
     - [Recommended Reading](#recommended-reading)
@@ -35,7 +33,7 @@
 ### Missions:
 #### [Shared Google Doc](https://docs.google.com/spreadsheets/d/1AKUyX6h1IlNM33kA-pKEyjt6FO-edaGJhS-3ZKl7Ank/edit#gid=1492869044)
  
-
+# Training Resources:
 ### Relaxing:
 
 * Relax on mat video- [link](https://www.youtube.com/watch?v=4tQs6lHKLCY)
