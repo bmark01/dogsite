@@ -9,20 +9,13 @@
    
 3) **Take a Breath work** [link](https://www.youtube.com/watch?v=bdffTkxqlZQ)
 
-# Medications:
-
-| Medication         | Type         | Dosage | Time of Day | Notes                                       |
-|--------------------|--------------|--------|-------------|---------------------------------------------|
-| **Trazadone**      | Short acting | 100mg  | 3x per day  | 6am, 3pm, 9pm                               |
-| **Fluoxetine HCL** | Long acting  | 20mg   | 1x per day  | 9:00 PM, 7 days @ 1/2 dose started on 3/14  |
 
 ## Table of Contents
 - [Weekly Focus Areas:](#weekly-focus-areas)
-- [Medications:](#medications)
   - [Table of Contents](#table-of-contents)
 - [Missions:](#missions)
       - [Shared Google Doc](#shared-google-doc)
-- [Medications:](#medications-1)
+- [Medications:](#medications)
 - [Training Resources:](#training-resources)
     - [Relaxing:](#relaxing)
     - [Dog Conditioning:](#dog-conditioning)
