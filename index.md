@@ -22,6 +22,7 @@
   - [Table of Contents](#table-of-contents)
 - [Missions:](#missions)
       - [Shared Google Doc](#shared-google-doc)
+- [Medications:](#medications-1)
 - [Training Resources:](#training-resources)
     - [Relaxing:](#relaxing)
     - [Dog Conditioning:](#dog-conditioning)
@@ -32,6 +33,14 @@
 
 # Missions:
 #### [Shared Google Doc](https://docs.google.com/spreadsheets/d/1AKUyX6h1IlNM33kA-pKEyjt6FO-edaGJhS-3ZKl7Ank/edit#gid=1492869044)
+
+# Medications:
+
+| Medication         | Type         | Dosage | Time of Day | Notes                                       |
+|--------------------|--------------|--------|-------------|---------------------------------------------|
+| **Trazadone**      | Short acting | 100mg  | 3x per day  | 6am, 3pm, 9pm                               |
+| **Fluoxetine HCL** | Long acting  | 20mg   | 1x per day  | 9:00 PM, 7 days @ 1/2 dose started on 3/14  |
+
  
 # Training Resources:
 ### Relaxing:
