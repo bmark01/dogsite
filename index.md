@@ -20,7 +20,7 @@
 - [Weekly Focus Areas:](#weekly-focus-areas)
 - [Medications:](#medications)
   - [Table of Contents](#table-of-contents)
-    - [Missions:](#missions)
+- [Missions:](#missions)
       - [Shared Google Doc](#shared-google-doc)
 - [Training Resources:](#training-resources)
     - [Relaxing:](#relaxing)
@@ -30,7 +30,7 @@
 
 > \*_Note: To open links in a new tab, right-click the link and select "Open Link in New Tab"._    
 
-### Missions:
+# Missions:
 #### [Shared Google Doc](https://docs.google.com/spreadsheets/d/1AKUyX6h1IlNM33kA-pKEyjt6FO-edaGJhS-3ZKl7Ank/edit#gid=1492869044)
  
 # Training Resources:
