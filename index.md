@@ -31,8 +31,8 @@
 
 |Medication         |Type         |Dosage |Dose/Time of Day |Notes                                       |
 |:-------------------|:-------------|:-------|:------------|:--------------------------------------------|
-| **Trazadone**      | Short acting | 100mg  | 1.5 tablets-3x per day  | 6am, 2pm, 9pm                               |
-| **Fluoxetine HCL** | Long acting  | 20mg   | 1.5 tablets- 1x per day  | 9:00 PM, **full** dose started on 3/14  |
+| **Trazadone**      | Short acting | 100mg  | 1.5, 1.75, 1.75 doses-3x per day  | 6am, 2pm, 9pm                               |
+| **Fluoxetine HCL** | Long acting  | 20mg   | 3.0 tablets- 1x per day  | 9:00 PM, **full** dose started on 3/14  |
 
  
 # Training Resources:
